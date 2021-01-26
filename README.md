@@ -1,16 +1,15 @@
 # TASK 1: Collection of users stories
 
-This repository relates to Task 1 of the I-ADOPT workplan.
+This repository contains eLTER user stories, inspired by and forked from the [i-adopt repo](https://github.com/i-adopt/users_stories).
+This README will be updated further as this system is tested for eLTER WP10/11.
 It is used to collate and discuss users stories submitted to the group.
-An I-ADOPT user story is a short and simple description of an application which requires semantic descriptions of observable properties.
-
-A user story should be fundamentally a one-sentence description of what a particular type of user wants the solution to achieve, and why they want that.
+A user story is a short and simple description of what a particular type of user wants a solution to achieve, and why they want that.
 We are expanding the concept to include more complete narratives that can more fully explain your one-sentence user story.
 
 
 ## Instructions
 
-To initiate a user story, [Get Started](https://github.com/i-adopt/users_stories/issues/new?assignees=&labels=user+story&template=user-story-submission-template.md&title=Role+-+Desired+Action+-+Benefit).
+To initiate a user story, [Get Started](https://github.com/eLTER_RI/users_stories/issues/new?assignees=&labels=user+story&template=user-story-submission-template.md&title=Role+-+Desired+Action+-+Benefit).
 (If there is some problem, go to the Issues tab for the repository, click <kbd>New issue</kbd>, then click on <kbd>Get Started</kbd> using the "User story submission template".)
 
 If you just want to create a regular ticket that isn't a user story, then [Open a blank issue](https://github.com/i-adopt/users_stories/issues/new).
