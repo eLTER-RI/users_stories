@@ -12,7 +12,7 @@ We are expanding the concept to include more complete narratives that can more f
 To initiate a user story, [Get Started](https://github.com/eLTER_RI/users_stories/issues/new?assignees=&labels=user+story&template=user-story-submission-template.md&title=Role+-+Desired+Action+-+Benefit).
 (If there is some problem, go to the Issues tab for the repository, click <kbd>New issue</kbd>, then click on <kbd>Get Started</kbd> using the "User story submission template".)
 
-If you just want to create a regular ticket that isn't a user story, then [Open a blank issue](https://github.com/i-adopt/users_stories/issues/new).
+If you just want to create a regular ticket that isn't a user story, then [Open a blank issue](https://github.com/eLTER-RI/users_stories/issues/new).
 
 ### Filling out the name
 
